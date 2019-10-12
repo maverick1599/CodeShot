@@ -1,0 +1,3 @@
+print("Hello There this is a Python Basic File")
+a=new(input("Enter Any Number: "))
+print(a)
